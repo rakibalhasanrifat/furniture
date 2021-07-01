@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Rakib Al Hasan Rifat &#8211; Ecommerce Website</title>
-	<atom:link href="https://rakibalhasanrifat.github.io/furniture/author/rakib/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rakibalhasanrifat.github.io/furniture/" rel="self" type="application/rss+xml" />
 	<link>https://rakibalhasanrifat.github.io/furniture</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Mon, 21 Jun 2021 02:10:55 +0000</lastBuildDate>
@@ -21,8 +21,8 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
 		<title>Hello world!</title>
-		<link>https://rakibalhasanrifat.github.io/furniture/2021/06/21/hello-world/</link>
-					<comments>https://rakibalhasanrifat.github.io/furniture/2021/06/21/hello-world/#comments</comments>
+		<link>https://rakibalhasanrifat.github.io/furniture/</link>
+					<comments>https://rakibalhasanrifat.github.io/furniture</comments>
 		
 		<dc:creator><![CDATA[Rakib Al Hasan Rifat]]></dc:creator>
 		<pubDate>Mon, 21 Jun 2021 02:10:55 +0000</pubDate>
@@ -34,7 +34,7 @@
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://rakibalhasanrifat.github.io/furniture/2021/06/21/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>https://rakibalhasanrifat.github.io/furniture/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
