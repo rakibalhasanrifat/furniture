@@ -1,0 +1,6 @@
+2021-06-22T03:09:05+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\wamp64\www\furniture\wp-includes\class-wp-image-editor-gd.php on line 196
+
+2021-06-22T03:09:24+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\wamp64\www\furniture\wp-includes\class-wp-image-editor-gd.php on line 196
+
+2021-06-22T03:09:38+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\wamp64\www\furniture\wp-includes\class-wp-image-editor.php on line 493
+
